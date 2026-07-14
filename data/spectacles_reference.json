@@ -1,0 +1,40 @@
+{
+  "_source_notes": "Durées : touringplans.com (arrondi au multiple de 5 sup.). Horaires : variables selon le jour, à vérifier dans l'app My Disney Experience le jour J — laissés éditables dans le viewer.",
+  "Magic Kingdom": [
+    {"zone": "Main Street, U.S.A.", "nom": "Happily Ever After", "type": "Feux d'artifice", "duree": 20, "horaires": []},
+    {"zone": "Main Street, U.S.A.", "nom": "Disney Starlight: Dream the Night Away", "type": "Parade nocturne", "duree": 15, "horaires": []},
+    {"zone": "Main Street, U.S.A.", "nom": "Disney Festival of Fantasy Parade", "type": "Parade de jour", "duree": 30, "horaires": []},
+    {"zone": "Main Street, U.S.A.", "nom": "Disney Adventure Friends Cavalcade", "type": "Mini-parade", "duree": 5, "horaires": []},
+    {"zone": "Main Street, U.S.A.", "nom": "Mickey's Magical Friendship Faire", "type": "Spectacle de personnages", "duree": 25, "horaires": []},
+    {"zone": "Frontierland", "nom": "Country Bear Musical Jamboree", "type": "Spectacle animatronique", "duree": 10, "horaires": []},
+    {"zone": "Fantasyland", "nom": "Mickey's PhilharMagic", "type": "Film 3D", "duree": 15, "horaires": []},
+    {"zone": "Tomorrowland", "nom": "Monsters, Inc. Laugh Floor", "type": "Spectacle interactif", "duree": 15, "horaires": []},
+    {"zone": "Liberty Square", "nom": "The Hall of Presidents", "type": "Spectacle animatronique", "duree": 25, "horaires": []}
+  ],
+  "EPCOT": [
+    {"zone": "World Showcase", "nom": "Luminous The Symphony of Us", "type": "Spectacle nocturne (feux, eau, lumières)", "duree": 20, "horaires": []},
+    {"zone": "World Showcase", "nom": "Voices of Liberty", "type": "Ensemble vocal a capella (American Adventure)", "duree": 15, "horaires": []},
+    {"zone": "World Showcase", "nom": "Candlelight Processional", "type": "Conte de Noël avec musique live (saisonnier, dès le 27/11/2026)", "duree": 40, "horaires": []},
+    {"zone": "World Showcase", "nom": "JAMMitors", "type": "Percussions de rue (Amérique)", "duree": 10, "horaires": []},
+    {"zone": "World Showcase", "nom": "Mariachi Cobre", "type": "Groupe de mariachis (Mexique)", "duree": 25, "horaires": []},
+    {"zone": "World Showcase", "nom": "Matsuriza", "type": "Percussions japonaises Taiko (Japon)", "duree": 15, "horaires": []},
+    {"zone": "World Showcase", "nom": "The American Adventure", "type": "Spectacle animatronique historique", "duree": 30, "horaires": []},
+    {"zone": "World Celebration", "nom": "Disney and Pixar Short Film Festival", "type": "Films courts", "duree": 20, "horaires": []}
+  ],
+  "Hollywood Studios": [
+    {"zone": "Sunset Boulevard", "nom": "Fantasmic!", "type": "Spectacle nocturne (eau, lumières, feux)", "duree": 30, "horaires": []},
+    {"zone": "Sunset Boulevard", "nom": "Beauty and the Beast – Live on Stage", "type": "Comédie musicale", "duree": 25, "horaires": []},
+    {"zone": "Echo Lake", "nom": "Indiana Jones Epic Stunt Spectacular!", "type": "Spectacle de cascades", "duree": 30, "horaires": []},
+    {"zone": "Echo Lake", "nom": "For the First Time in Forever: A Frozen Sing-Along", "type": "Comédie musicale participative", "duree": 25, "horaires": []},
+    {"zone": "Animation Courtyard", "nom": "The Little Mermaid – A Musical Adventure", "type": "Comédie musicale", "duree": 20, "horaires": []},
+    {"zone": "Animation Courtyard", "nom": "Disney Jr. Mickey Mouse Clubhouse Live!", "type": "Spectacle pour enfants", "duree": 20, "horaires": []},
+    {"zone": "Hollywood Boulevard", "nom": "Wonderful World of Animation", "type": "Projection nocturne sur le Chinese Theatre", "duree": 15, "horaires": []}
+  ],
+  "Animal Kingdom": [
+    {"zone": "Africa", "nom": "Festival of the Lion King", "type": "Spectacle en théâtre circulaire", "duree": 30, "horaires": []},
+    {"zone": "Asia", "nom": "Feathered Friends in Flight!", "type": "Spectacle d'oiseaux en vol libre", "duree": 25, "horaires": []},
+    {"zone": "Dinoland U.S.A", "nom": "Finding Nemo: The Big Blue... and Beyond!", "type": "Comédie musicale avec marionnettes", "duree": 35, "horaires": []},
+    {"zone": "Discovery Island", "nom": "Zootopia: Better Zoogether!", "type": "Film en salle avec effets spéciaux", "duree": 10, "horaires": []},
+    {"zone": "Discovery Island", "nom": "Tree of Life Awakenings", "type": "Projection nocturne sur l'Arbre de Vie", "duree": 5, "horaires": []}
+  ]
+}
