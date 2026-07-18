@@ -2,12 +2,6 @@
   "_source_notes": "Durées: touringplans.com (arrondi au multiple de 5 sup.). Lightning Lane: mousehacking.com (mai 2026) + disneyworld.disney.go.com. SR = Single Rider (aucun à Magic Kingdom).",
   "Magic Kingdom": {
     "Adventureland": {
-      "A Pirate's Adventure ~ Treasures of the Seven Seas": {
-        "duration": 15,
-        "PP": false,
-        "PA": false,
-        "SR": false
-      },
       "Jungle Cruise": {
         "duration": 10,
         "PP": true,
@@ -54,19 +48,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 48
-      },
-      "Casey Jr. Splash 'N' Soak Station": {
-        "duration": 15,
-        "PP": false,
-        "PA": false,
-        "SR": false
-      },
-      "Cinderella Castle": {
-        "duration": 5,
-        "PP": false,
-        "PA": false,
-        "SR": false
+        "plan_number": 42
       },
       "Dumbo the Flying Elephant": {
         "duration": 5,
@@ -89,7 +71,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 57
+        "plan_number": 56
       },
       "Meet Ariel at Her Grotto": {
         "duration": 5,
@@ -118,7 +100,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 46
+        "plan_number": 45
       },
       "Peter Pan's Flight": {
         "duration": 5,
@@ -126,21 +108,21 @@
         "PA": false,
         "SR": false,
         "PP_tier": 1,
-        "plan_number": 47
+        "plan_number": 43
       },
       "Prince Charming Regal Carrousel": {
         "duration": 5,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 45
+        "plan_number": 44
       },
       "Seven Dwarfs Mine Train": {
         "duration": 5,
         "PP": false,
         "PA": true,
         "SR": false,
-        "plan_number": 60
+        "plan_number": 48
       },
       "The Barnstormer": {
         "duration": 5,
@@ -156,7 +138,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 59
+        "plan_number": 47
       },
       "Under the Sea - Journey of The Little Mermaid": {
         "duration": 10,
@@ -192,7 +174,7 @@
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 58
+        "plan_number": 57
       }
     },
     "Frontierland": {
@@ -202,14 +184,14 @@
         "PA": false,
         "SR": false,
         "PP_tier": 1,
-        "plan_number": 28
+        "plan_number": 26
       },
       "Country Bear Musical Jamboree": {
         "duration": 10,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 29
+        "plan_number": 27
       },
       "Tiana's Bayou Adventure": {
         "duration": 20,
@@ -234,14 +216,14 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 37
+        "plan_number": 34
       },
       "The Hall of Presidents": {
         "duration": 25,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 35
+        "plan_number": 33
       },
       "Liberty Square Riverboat": {
         "duration": 15,
@@ -252,12 +234,6 @@
       }
     },
     "Main Street, U.S.A.": {
-      "Main Street Vehicles": {
-        "duration": 5,
-        "PP": false,
-        "PA": false,
-        "SR": false
-      },
       "Meet Mickey at Town Square Theater": {
         "duration": 5,
         "PP": false,
@@ -279,7 +255,7 @@
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 76
+        "plan_number": 71
       },
       "Buzz Lightyear's Space Ranger Spin": {
         "duration": 5,
@@ -287,7 +263,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 79
+        "plan_number": 74
       },
       "Monsters Inc. Laugh Floor": {
         "duration": 15,
@@ -295,7 +271,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 80
+        "plan_number": 75
       },
       "Space Mountain": {
         "duration": 10,
@@ -303,7 +279,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 1,
-        "plan_number": 75
+        "plan_number": 70
       },
       "Tomorrowland Speedway": {
         "duration": 5,
@@ -311,28 +287,28 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 73
+        "plan_number": 69
       },
       "Tomorrowland Transit Authority PeopleMover": {
         "duration": 10,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 77
+        "plan_number": 72
       },
       "TRON Lightcycle / Run": {
         "duration": 5,
         "PP": false,
         "PA": true,
         "SR": false,
-        "plan_number": 74
+        "plan_number": 68
       },
       "Walt Disney's Carousel of Progress": {
         "duration": 25,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 78
+        "plan_number": 73
       }
     }
   },
@@ -382,7 +358,7 @@
         "PP": false,
         "PA": true,
         "SR": false,
-        "plan_number": 12
+        "plan_number": 13
       },
       "Mission: SPACE": {
         "duration": 15,
@@ -390,7 +366,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 13
+        "plan_number": 14
       },
       "Test Track": {
         "duration": 5,
@@ -412,7 +388,7 @@
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 14
+        "plan_number": 16
       }
     },
     "World Nature": {
@@ -421,14 +397,14 @@
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 21
+        "plan_number": 22
       },
       "Journey of Water, Inspired by Moana": {
         "duration": 20,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 20
+        "plan_number": 21
       },
       "Living with the Land": {
         "duration": 15,
@@ -436,14 +412,14 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 23
+        "plan_number": 24
       },
       "SeaBase Aquarium": {
         "duration": 15,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 26
+        "plan_number": 27
       },
       "Soarin' Across America": {
         "duration": 10,
@@ -451,7 +427,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 22
+        "plan_number": 23
       },
       "The Seas with Nemo & Friends": {
         "duration": 5,
@@ -459,7 +435,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 24
+        "plan_number": 25
       },
       "Turtle Talk With Crush": {
         "duration": 20,
@@ -467,7 +443,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 25
+        "plan_number": 26
       }
     },
     "World Showcase": {
@@ -476,7 +452,7 @@
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 38
+        "plan_number": 39
       },
       "Frozen Ever After": {
         "duration": 5,
@@ -484,21 +460,21 @@
         "PA": false,
         "SR": false,
         "PP_tier": 1,
-        "plan_number": 32
+        "plan_number": 33
       },
       "Gran Fiesta Tour Starring The Three Caballeros": {
         "duration": 10,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 30
+        "plan_number": 31
       },
       "Meet Anna and Elsa at Royal Sommerhus": {
         "duration": 5,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 31
+        "plan_number": 32
       },
       "Remy's Ratatouille Adventure": {
         "duration": 5,
@@ -506,47 +482,40 @@
         "PA": false,
         "SR": true,
         "PP_tier": 1,
-        "plan_number": 37
+        "plan_number": 38
       },
       "Remy's Ratatouille Adventure Single Rider": {
         "duration": 5,
         "PP": false,
         "PA": false,
         "SR": true,
-        "plan_number": 37
+        "plan_number": 38
       },
       "Reflections of China": {
         "duration": 15,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 33
+        "plan_number": 34
       },
       "Beauty and the Beast Sing-Along": {
         "duration": 15,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 36
+        "plan_number": 37
       },
       "Impressions de France": {
         "duration": 18,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 36
+        "plan_number": 37
       }
     }
   },
   "Hollywood Studios": {
     "Animation Courtyard": {
-      "Disney Jr. Mickey Mouse Clubhouse Live!": {
-        "duration": 20,
-        "PP": true,
-        "PA": false,
-        "SR": false,
-        "PP_tier": 2
-      },
       "Meet Ariel at Walt Disney Presents": {
         "duration": 10,
         "PP": false,
@@ -554,26 +523,27 @@
         "SR": false,
         "plan_number": 51
       },
-      "The Little Mermaid – A Musical Adventure": {
-        "duration": 20,
-        "PP": true,
-        "PA": false,
-        "SR": false,
-        "PP_tier": 2
-      },
       "Walt Disney Presents": {
         "duration": 25,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 51
+        "plan_number": 50
       },
-      "Star Wars Launch Bay": {
-        "duration": 15,
+      "Disney Jr. Mickey Mouse Clubhouse Live!": {
+        "duration": 20,
+        "PP": true,
+        "PA": false,
+        "SR": false,
+        "PP_tier": 2,
+        "plan_number": 52
+      },
+      "The Little Mermaid – A Musical Adventure": {
+        "duration": 20,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 52
+        "plan_number": 51
       }
     },
     "Commissary Lane": {
@@ -592,7 +562,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 13
+        "plan_number": 9
       },
       "Indiana Jones Epic Stunt Spectacular!": {
         "duration": 30,
@@ -600,7 +570,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 9
+        "plan_number": 12
       },
       "Meet Olaf at Celebrity Spotlight": {
         "duration": 5,
@@ -615,14 +585,14 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 10
+        "plan_number": 13
       },
       "Vacation Fun - An Original Animated Short": {
         "duration": 15,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 12
+        "plan_number": 10
       }
     },
     "Hollywood Boulevard": {
@@ -641,7 +611,7 @@
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 50
+        "plan_number": 47
       },
       "Toy Story Mania!": {
         "duration": 10,
@@ -649,7 +619,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 46
+        "plan_number": 43
       }
     },
     "Star Wars: Galaxy's Edge": {
@@ -659,28 +629,28 @@
         "PA": false,
         "SR": true,
         "PP_tier": 1,
-        "plan_number": 32
+        "plan_number": 29
       },
       "Millennium Falcon: Smugglers Run Single Rider": {
         "duration": 5,
         "PP": false,
         "PA": false,
         "SR": true,
-        "plan_number": 32
+        "plan_number": 29
       },
       "Star Wars: Rise of the Resistance": {
         "duration": 10,
         "PP": false,
         "PA": true,
         "SR": false,
-        "plan_number": 31
+        "plan_number": 28
       },
       "Rise of the Resistance Single Rider": {
         "duration": 10,
         "PP": false,
         "PA": false,
         "SR": true,
-        "plan_number": 31
+        "plan_number": 28
       }
     },
     "Sunset Boulevard": {
@@ -690,14 +660,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 59
-      },
-      "Rock 'n' Roller Coaster Single Rider": {
-        "duration": 5,
-        "PP": false,
-        "PA": false,
-        "SR": true,
-        "plan_number": 56
+        "plan_number": 54
       },
       "Rock 'n' Roller Coaster Starring The Muppets": {
         "duration": 5,
@@ -705,7 +668,7 @@
         "PA": false,
         "SR": true,
         "PP_tier": 1,
-        "plan_number": 56
+        "plan_number": 57
       },
       "The Twilight Zone Tower of Terror": {
         "duration": 15,
@@ -713,6 +676,13 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
+        "plan_number": 56
+      },
+      "Rock 'n' Roller Coaster Starring Aerosmith Single Rider": {
+        "duration": 5,
+        "PP": false,
+        "PA": false,
+        "SR": true,
         "plan_number": 57
       }
     },
@@ -723,7 +693,7 @@
         "PA": false,
         "SR": false,
         "PP_tier": 2,
-        "plan_number": 44
+        "plan_number": 41
       },
       "Slinky Dog Dash": {
         "duration": 5,
@@ -731,18 +701,10 @@
         "PA": false,
         "SR": false,
         "PP_tier": 1,
-        "plan_number": 45
+        "plan_number": 42
       }
     },
-    "Grand Avenue": {
-      "Muppet*Vision 3D": {
-        "duration": 20,
-        "PP": false,
-        "PA": false,
-        "SR": false,
-        "plan_number": 26
-      }
-    }
+    "Grand Avenue": {}
   },
   "Animal Kingdom": {
     "_note": "Animal Kingdom n'a pas de tiers Lightning Lane (PP_tier non applicable).",
@@ -752,57 +714,65 @@
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 22
+        "plan_number": 25
       },
       "Gorilla Falls Exploration Trail": {
         "duration": 20,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 24
+        "plan_number": 27
       },
       "Kilimanjaro Safaris": {
         "duration": 20,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 23
+        "plan_number": 26
       },
       "Wildlife Express Train": {
         "duration": 10,
         "PP": false,
         "PA": false,
-        "SR": false
+        "SR": false,
+        "plan_number": 28
       }
     },
     "Asia": {
-      "Expedition Everest": {
-        "duration": 5,
-        "PP": true,
-        "PA": false,
-        "SR": false,
-        "plan_number": 38
-      },
-      "Expedition Everest Single Rider": {
-        "duration": 5,
-        "PP": false,
-        "PA": false,
-        "SR": true,
-        "plan_number": 38
-      },
       "Feathered Friends in Flight!": {
         "duration": 25,
         "PP": true,
         "PA": false,
         "SR": false,
-        "plan_number": 35
+        "plan_number": 41
       },
       "Kali River Rapids": {
         "duration": 10,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 37
+        "plan_number": 43
+      },
+      "Expedition Everest": {
+        "duration": 5,
+        "PP": true,
+        "PA": false,
+        "SR": false,
+        "plan_number": 44
+      },
+      "Expedition Everest Single Rider": {
+        "duration": 5,
+        "PP": false,
+        "PA": false,
+        "SR": true,
+        "plan_number": 44
+      },
+      "Maharajah Jungle Trek": {
+        "duration": 20,
+        "PP": false,
+        "PA": false,
+        "SR": false,
+        "plan_number": 42
       }
     },
     "Conservation Station": {
@@ -810,37 +780,22 @@
         "duration": 20,
         "PP": false,
         "PA": false,
-        "SR": false
+        "SR": false,
+        "plan_number": 39
       },
       "Bluey's Wild World at Conservation Station": {
         "duration": 60,
         "PP": false,
         "PA": false,
-        "SR": false
-      }
-    },
-    "Dinoland U.S.A": {
-      "Finding Nemo: The Big Blue... and Beyond!": {
-        "duration": 35,
-        "PP": true,
-        "PA": false,
         "SR": false,
-        "plan_number": 51
+        "plan_number": 38
       },
-      "The Boneyard": {
-        "duration": 20,
+      "Jumping Junction": {
+        "duration": 15,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 50
-      },
-      "DINOSAUR": {
-        "duration": 5,
-        "PP": false,
-        "PA": false,
-        "SR": false,
-        "plan_number": 52,
-        "_note": "Selon nos recherches, cette attraction aurait fermé définitivement le 02/02/2026 (remplacée par une attraction Indiana Jones). La carte fournie semble antérieure à cette fermeture — à vérifier avant la visite."
+        "plan_number": 40
       }
     },
     "Discovery Island": {
@@ -849,22 +804,16 @@
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 5
+        "plan_number": 6
       },
       "Meet Favorite Disney Pals at Adventurers Outpost": {
         "duration": 5,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 6
+        "plan_number": 7
       },
       "Meet Moana at Character Landing": {
-        "duration": 10,
-        "PP": false,
-        "PA": false,
-        "SR": false
-      },
-      "Tree of Life": {
         "duration": 10,
         "PP": false,
         "PA": false,
@@ -874,7 +823,8 @@
         "duration": 10,
         "PP": true,
         "PA": false,
-        "SR": false
+        "SR": false,
+        "plan_number": 5
       }
     },
     "Pandora - The World of Avatar": {
@@ -883,14 +833,14 @@
         "PP": false,
         "PA": true,
         "SR": false,
-        "plan_number": 18
+        "plan_number": 21
       },
       "Na'vi River Journey": {
         "duration": 5,
         "PP": false,
         "PA": false,
         "SR": false,
-        "plan_number": 17
+        "plan_number": 20
       }
     },
     "The Oasis": {
@@ -907,6 +857,15 @@
         "PA": false,
         "SR": false,
         "plan_number": 4
+      }
+    },
+    "Theater in the Wild": {
+      "Finding Nemo: The Big Blue... and Beyond!": {
+        "duration": 35,
+        "PP": true,
+        "PA": false,
+        "SR": false,
+        "plan_number": 56
       }
     }
   }
