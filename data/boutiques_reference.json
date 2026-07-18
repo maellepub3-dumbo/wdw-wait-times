@@ -3,34 +3,9 @@
   "Magic Kingdom": [
     {
       "zone": "Main Street, U.S.A.",
-      "nom": "Main Street Cinema",
-      "notes": "Apparel et souvenirs pour toute la famille."
-    },
-    {
-      "zone": "Main Street, U.S.A.",
-      "nom": "The Chapeau",
-      "notes": "Chapeaux, oreilles de Mickey personnalisables."
-    },
-    {
-      "zone": "Main Street, U.S.A.",
-      "nom": "Crystal Arts",
-      "notes": "Verrerie, cristal Arribas Brothers, objets personnalisables."
-    },
-    {
-      "zone": "Main Street, U.S.A.",
-      "nom": "Disney Clothiers",
-      "notes": "Vêtements et accessoires Disney."
-    },
-    {
-      "zone": "Main Street, U.S.A.",
       "nom": "Emporium",
       "notes": "La plus grande boutique du parc — un peu de tout (jouets, peluches, souvenirs, maison).",
-      "plan_number": 10
-    },
-    {
-      "zone": "Main Street, U.S.A.",
-      "nom": "Harmony Barber Shop",
-      "notes": "Vrai salon de coiffure, spécialiste des premières coupes d'enfant. Réservation conseillée."
+      "plan_number": 11
     },
     {
       "zone": "Main Street, U.S.A.",
@@ -42,17 +17,7 @@
       "zone": "Main Street, U.S.A.",
       "nom": "Uptown Jewelers",
       "notes": "Bijoux, montres, sacs, collection Disney x PANDORA.",
-      "plan_number": 11
-    },
-    {
-      "zone": "Adventureland",
-      "nom": "Agrabah Bazaar",
-      "notes": "Merchandising thème Aladdin, vêtements, costumes (statut/ouverture variable)."
-    },
-    {
-      "zone": "Adventureland",
-      "nom": "Bwana Bob's",
-      "notes": "Serre-têtes, chapeaux, bijoux, souvenirs à thème (statut variable)."
+      "plan_number": 12
     },
     {
       "zone": "Adventureland",
@@ -70,7 +35,7 @@
       "zone": "Fantasyland",
       "nom": "Bibbidi Bobbidi Boutique",
       "notes": "Relooking princesse/chevalier pour enfants (3-12 ans), à l'intérieur du château de Cendrillon. Réservation fortement conseillée.",
-      "plan_number": 70
+      "plan_number": 67
     },
     {
       "zone": "Fantasyland",
@@ -80,224 +45,71 @@
     },
     {
       "zone": "Fantasyland",
-      "nom": "Bonjour! Village Gifts",
-      "notes": "Objets et figurines thème La Belle et la Bête."
-    },
-    {
-      "zone": "Fantasyland",
       "nom": "Fantasy Faire",
       "notes": "Merchandising Mickey's PhilharMagic, oreilles Mickey personnalisées.",
-      "plan_number": 71
-    },
-    {
-      "zone": "Fantasyland",
-      "nom": "Hundred Acre Goods",
-      "notes": "Merchandising Winnie l'Ourson."
-    },
-    {
-      "zone": "Fantasyland",
-      "nom": "Sir Mickey's",
-      "notes": "Merchandising royal (princes/princesses), accessoires, souvenirs."
-    },
-    {
-      "zone": "Frontierland",
-      "nom": "Big Al's",
-      "notes": "Accessoires et chapeaux style far-west."
+      "plan_number": 66
     },
     {
       "zone": "Frontierland",
       "nom": "Frontier Trading Post",
       "notes": "Pins Disney, articles MagicBand+, souvenirs far-west.",
-      "plan_number": 34
+      "plan_number": 32
     },
     {
       "zone": "Frontierland",
       "nom": "Critter Co-Op",
       "notes": "Merchandising Tiana's Bayou Adventure — vêtements, peluches, déco.",
-      "plan_number": 33
-    },
-    {
-      "zone": "Frontierland",
-      "nom": "Tiana's Bayou General",
-      "notes": "Merchandising La Princesse et la Grenouille et l'attraction Tiana's Bayou Adventure."
+      "plan_number": 31
     },
     {
       "zone": "Liberty Square",
       "nom": "Memento Mori",
       "notes": "Boutique Haunted Mansion, thème Madame Leota — vêtements, maison, collectors.",
-      "plan_number": 44
-    },
-    {
-      "zone": "Liberty Square",
-      "nom": "Liberty Square Portrait Gallery",
-      "notes": "Portraits/silhouettes dessinés par des artistes."
+      "plan_number": 41
     },
     {
       "zone": "Liberty Square",
       "nom": "Ye Olde Christmas Shoppe",
       "notes": "Décorations de Noël et cadeaux toute l'année.",
-      "plan_number": 43
+      "plan_number": 40
     },
     {
       "zone": "Tomorrowland",
       "nom": "Star Traders",
       "notes": "Grande boutique — Star Wars, Stitch, souvenirs spatiaux.",
-      "plan_number": 88
+      "plan_number": 84
     },
     {
       "zone": "Tomorrowland",
       "nom": "Tomorrowland Launch Depot",
       "notes": "Ex-Tomorrowland Light & Power Co. — merchandising TRON, Marvel, Star Wars, personnalisation MagicBand+.",
-      "plan_number": 87
+      "plan_number": 83
+    },
+    {
+      "zone": "Main Street, U.S.A.",
+      "nom": "Main Street Confectionery",
+      "notes": "Sucreries à emporter.",
+      "plan_number": 10
     }
   ],
   "EPCOT": [
     {
-      "zone": "World Celebration",
-      "nom": "Creations Shop",
-      "notes": "Boutique phare d'EPCOT, grand espace lumineux, un peu de tout."
-    },
-    {
-      "zone": "World Celebration",
-      "nom": "Camera Center",
-      "notes": "Sous Spaceship Earth — accessoires photo/vidéo."
-    },
-    {
-      "zone": "World Celebration",
-      "nom": "Gateway Gifts",
-      "notes": "Sous Spaceship Earth — apparel et souvenirs EPCOT."
-    },
-    {
-      "zone": "World Celebration",
-      "nom": "Club Cool",
-      "notes": "Dégustation gratuite de sodas Coca-Cola du monde entier + boutique dérivée."
-    },
-    {
-      "zone": "World Celebration",
-      "nom": "Pin Traders",
-      "notes": "Pins Disney, service PhotoPass/Memory Maker."
-    },
-    {
       "zone": "World Discovery",
       "nom": "Treasures of Xandar",
       "notes": "Boutique à thème Gardiens de la Galaxie — mode, maison, objets de collection.",
-      "plan_number": 19
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "La Princesa de Cristal",
-      "notes": "Mexique — bijoux, verre gravé, figurines Disney en cristal."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "La Tienda Encantada",
-      "notes": "Mexique — bijoux et accessoires inspirés du vieux Mexique."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "El Ranchito del Norte",
-      "notes": "Mexique — bazar extérieur (statut d'ouverture variable)."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Plaza de los Amigos",
-      "notes": "Mexique — marché intérieur, artisanat mexicain."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "The Fjording",
-      "notes": "Norvège — souvenirs et pulls scandinaves."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Puffin's Roost",
-      "notes": "Norvège — bijoux, trolls, articles Frozen."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "House of Good Fortune",
-      "notes": "Chine — soieries, kimonos, thé, objets d'art."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Yong Feng Shangdian",
-      "notes": "Chine — grand bazar chinois, artisanat et bijoux."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Der Teddybär",
-      "notes": "Allemagne — peluches Steiff, poupées, jouets médiévaux (temporairement indisponible)."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Volkskunst",
-      "notes": "Allemagne — chopes à bière, coucous de la Forêt-Noire, chapeaux."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Weinkeller",
-      "notes": "Allemagne — vins et spiritueux allemands."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Süssigkeiten",
-      "notes": "Allemagne — fudge, chocolats, bonbons Haribo."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "La Bottega Italiana",
-      "notes": "Italie — sacs et accessoires façon boutique milanaise."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Il Bel Cristallo",
-      "notes": "Italie — cristal, bijoux, articles de collection."
+      "plan_number": 20
     },
     {
       "zone": "World Showcase",
       "nom": "Art of Disney",
       "notes": "Amérique — art et objets de collection Disney haut de gamme.",
-      "plan_number": 83
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Heritage Manor Gifts",
-      "notes": "Amérique — souvenirs patriotiques et américains."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Mitsukoshi Department Store",
-      "notes": "Japon — grand magasin, kimonos, thé, objets d'art, bijoux."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Souk-Al-Magreb / Marketplace in the Medina",
-      "notes": "Maroc — bazar couvert, tapis, poteries, fez."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Casablanca Carpets",
-      "notes": "Maroc — tapis marocains artisanaux."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Tangier Traders",
-      "notes": "Maroc — vêtements et accessoires."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Souvenirs de France",
-      "notes": "France — souvenirs et parfums français."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Plume et Palette",
-      "notes": "France — parfums, art, objets de collection."
+      "plan_number": 84
     },
     {
       "zone": "World Showcase",
       "nom": "La Signature by Guerlain",
-      "notes": "France — parfums et cosmétiques Guerlain."
+      "notes": "France — parfums et cosmétiques Guerlain.",
+      "plan_number": 85
     },
     {
       "zone": "World Showcase",
@@ -307,47 +119,39 @@
     },
     {
       "zone": "World Showcase",
-      "nom": "The Crown & Crest",
-      "notes": "Royaume-Uni — recherche de blason familial, souvenirs héraldiques."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "The Toy Soldier",
-      "notes": "Royaume-Uni — jouets et souvenirs britanniques."
-    },
-    {
-      "zone": "World Showcase",
       "nom": "Tea Caddy",
-      "notes": "Royaume-Uni — thés britanniques et théières."
-    },
-    {
-      "zone": "World Showcase",
-      "nom": "Sportsman's Shoppe",
-      "notes": "Royaume-Uni — pulls écossais, souvenirs Beatles, articles de sport."
+      "notes": "Royaume-Uni — thés britanniques et théières.",
+      "plan_number": 87
     },
     {
       "zone": "World Showcase",
       "nom": "Northwest Mercantile",
       "notes": "Canada — sirop d'érable, articles de hockey, souvenirs canadiens.",
-      "plan_number": 87
+      "plan_number": 88
     },
     {
       "zone": "World Showcase",
       "nom": "Port of Entry Featuring Pandora Jewelry",
       "notes": "Bijoux Pandora et souvenirs, à l'entrée de World Showcase.",
-      "plan_number": 80
+      "plan_number": 81
     },
     {
       "zone": "World Showcase",
       "nom": "Disney Traders",
       "notes": "Merchandising Disney classique, à l'entrée de World Showcase.",
-      "plan_number": 81
+      "plan_number": 82
     },
     {
       "zone": "World Showcase",
       "nom": "World Traveler",
       "notes": "France — accessoires de voyage et souvenirs.",
-      "plan_number": 85
+      "plan_number": 86
+    },
+    {
+      "zone": "World Showcase",
+      "nom": "Karamell-Küche",
+      "notes": "Allemagne — caramels artisanaux.",
+      "plan_number": 83
     }
   ],
   "Hollywood Studios": [
@@ -361,150 +165,121 @@
       "zone": "Hollywood Boulevard",
       "nom": "Mickey's of Hollywood",
       "notes": "Merchandising personnages, souvenirs variés.",
-      "plan_number": 5
+      "plan_number": 6
     },
     {
       "zone": "Hollywood Boulevard",
       "nom": "Keystone Clothiers",
       "notes": "Vêtements et accessoires Star Wars (robes de Jedi, etc.).",
-      "plan_number": 6
+      "plan_number": 8
     },
     {
       "zone": "Hollywood Boulevard",
       "nom": "Legends of Hollywood",
       "notes": "Sacs Kate Spade/Dooney & Bourke, robes, Loungefly, bijoux.",
-      "plan_number": 66
+      "plan_number": 64
     },
     {
       "zone": "Hollywood Boulevard",
       "nom": "Sid Cahuenga's One-of-a-Kind",
       "notes": "Service PhotoPass et objets de collection vintage.",
-      "plan_number": 4
-    },
-    {
-      "zone": "Hollywood Boulevard",
-      "nom": "Oscar's Classic Car Souvenirs",
-      "notes": "Petite boutique + location de casiers à l'entrée."
-    },
-    {
-      "zone": "Sunset Boulevard",
-      "nom": "Sunset Club Couture",
-      "notes": "Merchandising haut de gamme, montres, bijoux."
+      "plan_number": 5
     },
     {
       "zone": "Sunset Boulevard",
       "nom": "Sunset Ranch Pins and Souvenirs",
       "notes": "Grand choix de pins Disney.",
-      "plan_number": 64
-    },
-    {
-      "zone": "Sunset Boulevard",
-      "nom": "Rock Around the Shop",
-      "notes": "Souvenirs Rock 'n' Roller Coaster / thème rock."
-    },
-    {
-      "zone": "Sunset Boulevard",
-      "nom": "Tower Hotel Gifts",
-      "notes": "Merchandising Twilight Zone Tower of Terror."
-    },
-    {
-      "zone": "Sunset Boulevard",
-      "nom": "It's a Wonderful Shop",
-      "notes": "Articles de Noël toute l'année."
+      "plan_number": 65
     },
     {
       "zone": "Toy Story Land",
       "nom": "Jessie's Trading Post",
       "notes": "Merchandising Toy Story.",
-      "plan_number": 49
+      "plan_number": 46
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
       "nom": "Black Spire Outfitters",
       "notes": "Vêtements et accessoires thème Batuu.",
-      "plan_number": 39
+      "plan_number": 36
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
       "nom": "Dok-Ondar's Den of Antiquities",
       "notes": "Objets de collection Star Wars, sabres laser pré-fabriqués.",
-      "plan_number": 40
+      "plan_number": 37
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
       "nom": "Droid Depot",
       "notes": "Construisez votre propre droïde (BB-8 style).",
-      "plan_number": 42
+      "plan_number": 39
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
       "nom": "Savi's Workshop",
       "notes": "Construisez votre propre sabre laser — expérience immersive sur réservation.",
-      "plan_number": 41
+      "plan_number": 38
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
       "nom": "Toydarian Toymaker",
       "notes": "Jouets artisanaux façon Batuu.",
-      "plan_number": 39
-    },
-    {
-      "zone": "Animation Courtyard",
-      "nom": "In Character",
-      "notes": "Costumes et tenues de princesses Disney pour enfants."
-    },
-    {
-      "zone": "Echo Lake",
-      "nom": "Indiana Jones Adventure Outpost",
-      "notes": "Souvenirs thème Indiana Jones."
+      "plan_number": 36
     },
     {
       "zone": "Hollywood Boulevard",
       "nom": "Oscar's Super Service",
       "notes": "Souvenirs et service (proche de l'entrée).",
-      "plan_number": 8
+      "plan_number": 4
     },
     {
       "zone": "Echo Lake",
       "nom": "Tatooine Traders",
       "notes": "Merchandising Star Wars classique.",
-      "plan_number": 21
+      "plan_number": 22
     },
     {
       "zone": "Echo Lake",
       "nom": "\"Frozen\" Fractal Gifts",
       "notes": "Merchandising La Reine des Neiges.",
-      "plan_number": 22
+      "plan_number": 21
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
       "nom": "Resistance Supply",
       "notes": "Merchandising Résistance.",
-      "plan_number": 38
+      "plan_number": 35
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
       "nom": "Creature Stall",
       "notes": "Créatures et objets à thème Batuu (partie de The Market Merchants).",
-      "plan_number": 39
+      "plan_number": 36
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
       "nom": "Jewels of Bith",
       "notes": "Bijoux à thème Batuu (partie de The Market Merchants).",
-      "plan_number": 39
+      "plan_number": 36
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
       "nom": "First Order Cargo",
       "notes": "Merchandising Premier Ordre.",
-      "plan_number": 43
+      "plan_number": 40
     },
     {
       "zone": "Sunset Boulevard",
       "nom": "Once Upon a Time",
       "notes": "Merchandising princesses et contes.",
       "plan_number": 65
+    },
+    {
+      "zone": "Sunset Boulevard",
+      "nom": "Beverly Sunset Boutique",
+      "notes": "Boutique Sunset Boulevard.",
+      "plan_number": 63
     }
   ],
   "Animal Kingdom": [
@@ -512,65 +287,43 @@
       "zone": "Discovery Island",
       "nom": "Island Mercantile",
       "notes": "Boutique principale du parc — t-shirts, pins, sacs Loungefly.",
-      "plan_number": 15
-    },
-    {
-      "zone": "Discovery Island",
-      "nom": "Creature Comforts",
-      "notes": "Jouets et vêtements pour enfants.",
-      "plan_number": 14
+      "plan_number": 18
     },
     {
       "zone": "Discovery Island",
       "nom": "Discovery Trading Company",
       "notes": "Sacs, bijoux, pins et souvenirs variés.",
-      "plan_number": 16
+      "plan_number": 19
     },
     {
       "zone": "Africa",
       "nom": "Mombasa Marketplace",
       "notes": "Objets inspirés de la culture africaine, Le Roi Lion, parfois merchandising Black Panther.",
-      "plan_number": 33
-    },
-    {
-      "zone": "Africa",
-      "nom": "Ziwani Traders",
-      "notes": "Peluches d'animaux sauvages, t-shirts, œufs d'autruche décoratifs."
+      "plan_number": 36
     },
     {
       "zone": "Asia",
       "nom": "Serka Zong Bazaar",
       "notes": "Merchandising Expedition Everest, décor thème Yeti.",
-      "plan_number": 49
+      "plan_number": 55
     },
     {
       "zone": "Asia",
       "nom": "Mandala Gifts",
       "notes": "Cadeaux à thème asiatique.",
-      "plan_number": 48
-    },
-    {
-      "zone": "Dinoland U.S.A",
-      "nom": "The Dino Institute Shop",
-      "notes": "Cadeaux à thème dinosaures.",
-      "plan_number": 56
-    },
-    {
-      "zone": "Dinoland U.S.A",
-      "nom": "Chester & Hester's Dinosaur Treasures",
-      "notes": "Boutique kitsch façon attrape-touristes, œufs de dinosaures très populaires."
+      "plan_number": 54
     },
     {
       "zone": "Pandora - The World of Avatar",
       "nom": "Windtraders",
       "notes": "LA boutique Avatar — Banshees télécommandés, création de colliers Na'vi.",
-      "plan_number": 21
+      "plan_number": 24
     },
     {
       "zone": "Africa",
       "nom": "Zuri's Sweets Shop",
       "notes": "Confiseries et souvenirs.",
-      "plan_number": 34
+      "plan_number": 37
     },
     {
       "zone": "The Oasis",
