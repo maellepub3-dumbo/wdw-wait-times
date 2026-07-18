@@ -7,7 +7,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Château de la Bête, thème La Belle et la Bête. Réservation recommandée.",
-      "plan_number": 64
+      "plan_number": 62
     },
     {
       "zone": "Fantasyland",
@@ -15,7 +15,7 @@
       "type": "Table Service / Character Dining",
       "mobile_order": false,
       "notes": "Dans le château de Cendrillon. Repas avec princesses, très demandé.",
-      "plan_number": 62
+      "plan_number": 59
     },
     {
       "zone": "Main Street, U.S.A.",
@@ -23,7 +23,7 @@
       "type": "Table Service / Character Buffet",
       "mobile_order": false,
       "notes": "Buffet avec Winnie l'Ourson et ses amis.",
-      "plan_number": 5
+      "plan_number": 9
     },
     {
       "zone": "Liberty Square",
@@ -31,7 +31,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Cuisine réconfortante façon Thanksgiving.",
-      "plan_number": 38
+      "plan_number": 36
     },
     {
       "zone": "Main Street, U.S.A.",
@@ -55,7 +55,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Fermé pour restauration du 26/05 au 08/09/2026 (accueille Jessie's Roundup).",
-      "plan_number": 39
+      "plan_number": 35
     },
     {
       "zone": "Main Street, U.S.A.",
@@ -63,14 +63,15 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Cuisine italienne près de l'entrée.",
-      "plan_number": 9
+      "plan_number": 4
     },
     {
       "zone": "Adventureland",
       "nom": "The Beak and Barrel",
       "type": "Lounge / Bar",
       "mobile_order": false,
-      "notes": "Boissons et petites bouchées thème pirates."
+      "notes": "Boissons et petites bouchées thème pirates.",
+      "plan_number": 22
     },
     {
       "zone": "Liberty Square",
@@ -78,7 +79,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Étage moins fréquenté, thème fruits de mer.",
-      "plan_number": 40
+      "plan_number": 39
     },
     {
       "zone": "Frontierland",
@@ -86,7 +87,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Menu Tex-Mex, bar à garnitures.",
-      "plan_number": 31
+      "plan_number": 29
     },
     {
       "zone": "Tomorrowland",
@@ -94,7 +95,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Grande capacité, spectacle Sonny Eclipse.",
-      "plan_number": 81
+      "plan_number": 77
     },
     {
       "zone": "Fantasyland",
@@ -102,7 +103,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Flatbreads, vue sur it's a small world.",
-      "plan_number": 63
+      "plan_number": 58
     },
     {
       "zone": "Main Street, U.S.A.",
@@ -110,7 +111,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Hot-dogs, thème baseball.",
-      "plan_number": 4
+      "plan_number": 8
     },
     {
       "zone": "Fantasyland",
@@ -118,7 +119,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Tater tots et plats simples.",
-      "plan_number": 69
+      "plan_number": 60
     },
     {
       "zone": "Frontierland",
@@ -126,7 +127,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Petites bouchées, ouverture variable.",
-      "plan_number": 30
+      "plan_number": 28
     },
     {
       "zone": "Tomorrowland",
@@ -134,7 +135,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Snacks rapides à Tomorrowland.",
-      "plan_number": 85
+      "plan_number": 80
     },
     {
       "zone": "Main Street, U.S.A.",
@@ -142,7 +143,7 @@
       "type": "Quick Service / Bakery",
       "mobile_order": true,
       "notes": "Café et viennoiseries.",
-      "plan_number": 8
+      "plan_number": 5
     },
     {
       "zone": "Tomorrowland",
@@ -150,7 +151,7 @@
       "type": "Quick Service / Événementiel",
       "mobile_order": true,
       "notes": "Utilisé pour soirées à supplément (dessert parties).",
-      "plan_number": 86
+      "plan_number": 82
     },
     {
       "zone": "Adventureland",
@@ -174,7 +175,7 @@
       "type": "Quick Service / Snack",
       "mobile_order": true,
       "notes": "Gaufres et snacks sucrés/salés.",
-      "plan_number": 42
+      "plan_number": 37
     },
     {
       "zone": "Fantasyland",
@@ -182,7 +183,7 @@
       "type": "Quick Service / Snack",
       "mobile_order": true,
       "notes": "Cinnamon roll géant, LeFou's Brew.",
-      "plan_number": 65
+      "plan_number": 63
     },
     {
       "zone": "Fantasyland",
@@ -190,7 +191,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Glaces et desserts à thème.",
-      "plan_number": 68
+      "plan_number": 61
     },
     {
       "zone": "Main Street, U.S.A.",
@@ -214,7 +215,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Glaces soft et sucreries.",
-      "plan_number": 82
+      "plan_number": 78
     },
     {
       "zone": "Fantasyland",
@@ -222,7 +223,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Cheshire Cat Tail et boissons.",
-      "plan_number": 67
+      "plan_number": 65
     },
     {
       "zone": "Liberty Square",
@@ -230,7 +231,7 @@
       "type": "Snack",
       "mobile_order": false,
       "notes": "Chariot de snacks légers.",
-      "plan_number": 41
+      "plan_number": 38
     },
     {
       "zone": "Fantasyland",
@@ -238,7 +239,7 @@
       "type": "Snack",
       "mobile_order": false,
       "notes": "Snacks à emporter.",
-      "plan_number": 66
+      "plan_number": 64
     },
     {
       "zone": "Adventureland",
@@ -254,14 +255,15 @@
       "type": "Snack",
       "mobile_order": false,
       "notes": "Petits snacks et boissons.",
-      "plan_number": 32
+      "plan_number": 30
     },
     {
       "zone": "Tomorrowland",
       "nom": "Astrofizz",
       "type": "Snack",
       "mobile_order": true,
-      "notes": "Boissons spécialités et petits snacks."
+      "notes": "Boissons spécialités et petits snacks.",
+      "plan_number": 79
     },
     {
       "zone": "Adventureland",
@@ -277,7 +279,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Snacks santé et boissons.",
-      "plan_number": 83
+      "plan_number": 76
     },
     {
       "zone": "Tomorrowland",
@@ -285,7 +287,7 @@
       "type": "Snack / Café",
       "mobile_order": true,
       "notes": "Café à emporter.",
-      "plan_number": 84
+      "plan_number": 81
     }
   ],
   "EPCOT": [
@@ -295,7 +297,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Repas prix fixe avec simulation de vue sur la Terre depuis l'espace.",
-      "plan_number": 18
+      "plan_number": 19
     },
     {
       "zone": "World Nature",
@@ -303,7 +305,7 @@
       "type": "Table Service / Character Dining",
       "mobile_order": false,
       "notes": "Restaurant tournant, personnages Chip, Dale et amis.",
-      "plan_number": 28
+      "plan_number": 29
     },
     {
       "zone": "World Nature",
@@ -311,7 +313,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Vue sur l'aquarium géant de The Seas.",
-      "plan_number": 29
+      "plan_number": 30
     },
     {
       "zone": "World Nature",
@@ -319,7 +321,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Food court varié dans le pavillon The Land.",
-      "plan_number": 27
+      "plan_number": 28
     },
     {
       "zone": "World Celebration",
@@ -327,7 +329,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Burgers et cuisine américaine.",
-      "plan_number": 6
+      "plan_number": 7
     },
     {
       "zone": "World Celebration",
@@ -335,7 +337,7 @@
       "type": "Quick Service / Café",
       "mobile_order": true,
       "notes": "Café et boissons, à côté de Connections Eatery.",
-      "plan_number": 5
+      "plan_number": 6
     },
     {
       "zone": "World Showcase",
@@ -343,7 +345,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Mexique — ambiance nocturne sous la pyramide, vue sur le volcan.",
-      "plan_number": 46
+      "plan_number": 47
     },
     {
       "zone": "World Showcase",
@@ -351,7 +353,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Mexique — tacos, empanadas au bord de l'eau.",
-      "plan_number": 43
+      "plan_number": 44
     },
     {
       "zone": "World Showcase",
@@ -359,7 +361,7 @@
       "type": "Lounge / Bar",
       "mobile_order": false,
       "notes": "Mexique — bar à tequila et margaritas.",
-      "plan_number": 45
+      "plan_number": 46
     },
     {
       "zone": "World Showcase",
@@ -367,15 +369,15 @@
       "type": "Quick Service / Bar",
       "mobile_order": true,
       "notes": "Mexique — margaritas et petites bouchées.",
-      "plan_number": 42
+      "plan_number": 43
     },
     {
       "zone": "World Showcase",
       "nom": "Akershus Royal Banquet Hall",
       "type": "Table Service / Character Dining",
       "mobile_order": false,
-      "notes": "Norvège — repas avec princesses Disney.",
-      "plan_number": 48
+      "notes": "Norvège — repas avec princesses Disney. Mobile Dining Reservation Check-In Only (pas de walk-up).",
+      "plan_number": 49
     },
     {
       "zone": "World Showcase",
@@ -383,7 +385,7 @@
       "type": "Quick Service / Bakery",
       "mobile_order": true,
       "notes": "Norvège — pâtisseries scandinaves.",
-      "plan_number": 47
+      "plan_number": 48
     },
     {
       "zone": "World Showcase",
@@ -391,7 +393,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Chine — cuisine chinoise variée (Sichuan, cantonaise, etc.).",
-      "plan_number": 49
+      "plan_number": 50
     },
     {
       "zone": "World Showcase",
@@ -399,7 +401,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Chine — plats simples et rapides.",
-      "plan_number": 50
+      "plan_number": 51
     },
     {
       "zone": "World Showcase",
@@ -407,7 +409,7 @@
       "type": "Snack / Bar",
       "mobile_order": false,
       "notes": "Chine — thés et cocktails.",
-      "plan_number": 51
+      "plan_number": 52
     },
     {
       "zone": "World Showcase",
@@ -415,7 +417,7 @@
       "type": "Table Service / Buffet",
       "mobile_order": false,
       "notes": "Allemagne — buffet avec musique live, ambiance Oktoberfest.",
-      "plan_number": 53
+      "plan_number": 54
     },
     {
       "zone": "World Showcase",
@@ -423,7 +425,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Allemagne — bratwurst, pretzel bread pudding.",
-      "plan_number": 54
+      "plan_number": 55
     },
     {
       "zone": "World Showcase",
@@ -439,7 +441,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Italie — pizza napolitaine au four à bois.",
-      "plan_number": 57
+      "plan_number": 58
     },
     {
       "zone": "World Showcase",
@@ -447,7 +449,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Italie — cuisine italienne traditionnelle.",
-      "plan_number": 55
+      "plan_number": 56
     },
     {
       "zone": "World Showcase",
@@ -455,7 +457,7 @@
       "type": "Lounge / Bar",
       "mobile_order": false,
       "notes": "Italie — cave à vins et petites assiettes.",
-      "plan_number": 56
+      "plan_number": 57
     },
     {
       "zone": "World Showcase",
@@ -463,7 +465,7 @@
       "type": "Snack",
       "mobile_order": false,
       "notes": "Italie — glaces artisanales.",
-      "plan_number": 58
+      "plan_number": 59
     },
     {
       "zone": "World Showcase",
@@ -471,7 +473,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Amérique — barbecue façon smokehouse américain.",
-      "plan_number": 61
+      "plan_number": 62
     },
     {
       "zone": "World Showcase",
@@ -479,7 +481,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Amérique — hot-dogs et snacks.",
-      "plan_number": 60
+      "plan_number": 61
     },
     {
       "zone": "World Showcase",
@@ -493,8 +495,8 @@
       "nom": "Teppan Edo",
       "type": "Table Service",
       "mobile_order": false,
-      "notes": "Japon — cuisine hibachi préparée devant vous.",
-      "plan_number": 65
+      "notes": "Japon — cuisine hibachi préparée devant vous. Mobile Dining Reservation Check-In Only (pas de walk-up).",
+      "plan_number": 66
     },
     {
       "zone": "World Showcase",
@@ -508,14 +510,16 @@
       "nom": "Katsura Grill",
       "type": "Quick Service",
       "mobile_order": true,
-      "notes": "Japon — teriyaki, bols sushi, cadre paisible."
+      "notes": "Japon — teriyaki, bols sushi, cadre paisible.",
+      "plan_number": 65
     },
     {
       "zone": "World Showcase",
       "nom": "Kabuki Café",
       "type": "Snack",
       "mobile_order": false,
-      "notes": "Japon — sushis à emporter, boissons."
+      "notes": "Japon — sushis à emporter, boissons.",
+      "plan_number": 64
     },
     {
       "zone": "World Showcase",
@@ -523,7 +527,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Maroc — petites assiettes, vue sur le lagon.",
-      "plan_number": 68
+      "plan_number": 69
     },
     {
       "zone": "World Showcase",
@@ -545,7 +549,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "France — brasserie française classique.",
-      "plan_number": 70
+      "plan_number": 71
     },
     {
       "zone": "World Showcase",
@@ -553,7 +557,7 @@
       "type": "Table Service (fine dining)",
       "mobile_order": false,
       "notes": "France — restaurant gastronomique à l'étage, menu dégustation.",
-      "plan_number": 71
+      "plan_number": 72
     },
     {
       "zone": "World Showcase",
@@ -561,7 +565,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "France — crêperie authentique façon Bretagne, chef Jérôme Bocuse.",
-      "plan_number": 74
+      "plan_number": 75
     },
     {
       "zone": "World Showcase",
@@ -569,7 +573,7 @@
       "type": "Quick Service / Bakery",
       "mobile_order": true,
       "notes": "France — l'un des meilleurs quick service du parc (viennoiseries, sandwichs).",
-      "plan_number": 73
+      "plan_number": 74
     },
     {
       "zone": "World Showcase",
@@ -577,7 +581,7 @@
       "type": "Snack",
       "mobile_order": false,
       "notes": "France — glaces artisanales et macaron ice cream sandwich.",
-      "plan_number": 72
+      "plan_number": 73
     },
     {
       "zone": "World Showcase",
@@ -592,7 +596,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Royaume-Uni — cuisine pub britannique, vue sur le lagon pour les feux d'artifice.",
-      "plan_number": 76
+      "plan_number": 77
     },
     {
       "zone": "World Showcase",
@@ -600,7 +604,7 @@
       "type": "Lounge / Bar",
       "mobile_order": false,
       "notes": "Royaume-Uni — bar à bières britanniques.",
-      "plan_number": 77
+      "plan_number": 78
     },
     {
       "zone": "World Showcase",
@@ -608,7 +612,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Royaume-Uni — fish & chips, institution du parc.",
-      "plan_number": 75
+      "plan_number": 76
     },
     {
       "zone": "World Showcase",
@@ -616,7 +620,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Canada — steakhouse, l'un des plus demandés d'EPCOT.",
-      "plan_number": 79
+      "plan_number": 80
     },
     {
       "zone": "World Showcase",
@@ -624,7 +628,7 @@
       "type": "Quick Service / Snack",
       "mobile_order": true,
       "notes": "Canada — beignets, nuggets, boissons.",
-      "plan_number": 39
+      "plan_number": 40
     },
     {
       "zone": "World Showcase",
@@ -640,7 +644,7 @@
       "type": "Quick Service (saisonnier)",
       "mobile_order": true,
       "notes": "Stand actif pendant les festivals EPCOT.",
-      "plan_number": 7
+      "plan_number": 8
     },
     {
       "zone": "World Discovery",
@@ -648,7 +652,7 @@
       "type": "Quick Service (saisonnier)",
       "mobile_order": true,
       "notes": "Ouvert selon la saison.",
-      "plan_number": 16
+      "plan_number": 17
     },
     {
       "zone": "World Showcase",
@@ -656,7 +660,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Canada — glaces et boissons.",
-      "plan_number": 40
+      "plan_number": 41
     },
     {
       "zone": "World Showcase",
@@ -664,7 +668,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Mexique — vue sur le lagon, spécialités grillées.",
-      "plan_number": 44
+      "plan_number": 45
     },
     {
       "zone": "World Showcase",
@@ -672,15 +676,15 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Amérique — beignets funnel cake.",
-      "plan_number": 62
+      "plan_number": 63
     },
     {
       "zone": "World Showcase",
       "nom": "Shiki-Sai: Sushi Izakaya",
       "type": "Table Service",
       "mobile_order": false,
-      "notes": "Japon — sushis et izakaya (réservation via Mobile Dining uniquement).",
-      "plan_number": 66
+      "notes": "Japon — sushis et izakaya (réservation via Mobile Dining uniquement). Mobile Dining Reservation Check-In Only (pas de walk-up).",
+      "plan_number": 67
     },
     {
       "zone": "World Showcase",
@@ -688,7 +692,23 @@
       "type": "Table Service (fine dining)",
       "mobile_order": false,
       "notes": "Japon — cuisine japonaise raffinée (réservation via Mobile Dining uniquement).",
-      "plan_number": 67
+      "plan_number": 68
+    },
+    {
+      "zone": "World Showcase",
+      "nom": "Les Vins de Chefs de France",
+      "type": "Quick Service / Bar à vins",
+      "mobile_order": false,
+      "notes": "France — vins français à emporter.",
+      "plan_number": 70
+    },
+    {
+      "zone": "World Celebration",
+      "nom": "GEO-82",
+      "type": "Quick Service",
+      "mobile_order": true,
+      "notes": "Nouveau restaurant World Celebration.",
+      "plan_number": 5
     }
   ],
   "Hollywood Studios": [
@@ -698,14 +718,14 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Restaurant signature du parc, cadre chic façon vieux Hollywood.",
-      "plan_number": 2
+      "plan_number": 3
     },
     {
       "zone": "Hollywood Boulevard",
       "nom": "The Hollywood Brown Derby Lounge",
       "type": "Lounge / Bar",
       "mobile_order": false,
-      "notes": "Bar attenant au Brown Derby."
+      "notes": "Bar attenant au Brown Derby. Mobile Dining Walk-Up List Only (pas de réservation à l'avance)."
     },
     {
       "zone": "Hollywood Boulevard",
@@ -713,7 +733,7 @@
       "type": "Quick Service / Café (Starbucks)",
       "mobile_order": true,
       "notes": "Café et pâtisseries à l'entrée du parc.",
-      "plan_number": 3
+      "plan_number": 2
     },
     {
       "zone": "Echo Lake",
@@ -721,7 +741,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Ambiance cuisine familiale des années 50, service espiègle.",
-      "plan_number": 15
+      "plan_number": 16
     },
     {
       "zone": "Echo Lake",
@@ -729,7 +749,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Thème studio de cinéma, beaucoup de places assises intérieures.",
-      "plan_number": 18
+      "plan_number": 20
     },
     {
       "zone": "Echo Lake",
@@ -744,7 +764,7 @@
       "type": "Snack",
       "mobile_order": false,
       "notes": "Glaces, ouverture saisonnière.",
-      "plan_number": 20
+      "plan_number": 17
     },
     {
       "zone": "Commissary Lane",
@@ -752,7 +772,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Menu varié (burgers, plats asiatiques).",
-      "plan_number": 25
+      "plan_number": 24
     },
     {
       "zone": "Commissary Lane",
@@ -760,7 +780,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Dîner dans des voitures façon ciné-parc, extraits de films de science-fiction.",
-      "plan_number": 24
+      "plan_number": 25
     },
     {
       "zone": "Sunset Boulevard",
@@ -768,7 +788,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Pizzas et pasta.",
-      "plan_number": 61
+      "plan_number": 60
     },
     {
       "zone": "Sunset Boulevard",
@@ -776,7 +796,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Burgers et cuisine américaine classique.",
-      "plan_number": 61
+      "plan_number": 60
     },
     {
       "zone": "Sunset Boulevard",
@@ -784,7 +804,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Bols barbecue et Buffalo Chicken.",
-      "plan_number": 61
+      "plan_number": 60
     },
     {
       "zone": "Sunset Boulevard",
@@ -792,7 +812,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Fruits frais et snacks légers.",
-      "plan_number": 61
+      "plan_number": 60
     },
     {
       "zone": "Sunset Boulevard",
@@ -807,7 +827,7 @@
       "type": "Lounge / Bar",
       "mobile_order": false,
       "notes": "Ouverture saisonnière, cocktails à emporter.",
-      "plan_number": 60
+      "plan_number": 59
     },
     {
       "zone": "Toy Story Land",
@@ -815,7 +835,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Barbecue façon rodéo, immersion dans l'univers Toy Story.",
-      "plan_number": 47
+      "plan_number": 45
     },
     {
       "zone": "Toy Story Land",
@@ -823,7 +843,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Petit-déjeuner et snacks (tarts, sandwichs).",
-      "plan_number": 48
+      "plan_number": 44
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
@@ -831,7 +851,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Cuisine créative façon Batuu (poulet, boulettes végétales).",
-      "plan_number": 35
+      "plan_number": 32
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
@@ -839,7 +859,7 @@
       "type": "Quick Service / Snack",
       "mobile_order": true,
       "notes": "Ronto Wrap, sandwich signature de Galaxy's Edge.",
-      "plan_number": 34
+      "plan_number": 31
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
@@ -847,7 +867,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Blue Milk et Green Milk emblématiques (versions alcoolisées disponibles).",
-      "plan_number": 37
+      "plan_number": 34
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
@@ -855,7 +875,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Pop-corn sucré-épicé signature de Batuu.",
-      "plan_number": 33
+      "plan_number": 30
     },
     {
       "zone": "Star Wars: Galaxy's Edge",
@@ -863,15 +883,7 @@
       "type": "Lounge / Bar",
       "mobile_order": false,
       "notes": "Bar immersif Star Wars, réservation fortement recommandée.",
-      "plan_number": 36
-    },
-    {
-      "zone": "Grand Avenue",
-      "nom": "PizzeRizzo",
-      "type": "Quick Service",
-      "mobile_order": true,
-      "notes": "Pizzas, thème Muppets.",
-      "plan_number": 28
+      "plan_number": 33
     },
     {
       "zone": "Grand Avenue",
@@ -879,7 +891,7 @@
       "type": "Lounge / Bar",
       "mobile_order": false,
       "notes": "Bar discret, bières et vins californiens.",
-      "plan_number": 30
+      "plan_number": 26
     },
     {
       "zone": "Animation Courtyard",
@@ -887,7 +899,7 @@
       "type": "Table Service / Character Dining",
       "mobile_order": false,
       "notes": "Buffet avec personnages Disney Junior.",
-      "plan_number": 14
+      "plan_number": 15
     },
     {
       "zone": "Echo Lake",
@@ -895,7 +907,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Snacks variés.",
-      "plan_number": 16
+      "plan_number": 18
     },
     {
       "zone": "Echo Lake",
@@ -903,7 +915,7 @@
       "type": "Snack / Bar",
       "mobile_order": true,
       "notes": "Boissons et petites bouchées.",
-      "plan_number": 17
+      "plan_number": 19
     },
     {
       "zone": "Echo Lake",
@@ -911,7 +923,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Hot-dogs et burgers.",
-      "plan_number": 19
+      "plan_number": 14
     },
     {
       "zone": "Grand Avenue",
@@ -935,7 +947,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Snacks à Pixar Plaza.",
-      "plan_number": 54
+      "plan_number": 49
     },
     {
       "zone": "Pixar Plaza",
@@ -943,7 +955,7 @@
       "type": "Snack / Café",
       "mobile_order": true,
       "notes": "Café à emporter.",
-      "plan_number": 55
+      "plan_number": 48
     }
   ],
   "Animal Kingdom": [
@@ -953,7 +965,7 @@
       "type": "Table Service / Character Dining",
       "mobile_order": false,
       "notes": "Buffet africain avec Donald et ses amis en tenue safari.",
-      "plan_number": 28
+      "plan_number": 31
     },
     {
       "zone": "Discovery Island",
@@ -961,15 +973,15 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Restaurant signature du parc, cuisine raffinée inspirée des voyages des Imagineers.",
-      "plan_number": 11
+      "plan_number": 13
     },
     {
       "zone": "Discovery Island",
       "nom": "Nomad Lounge",
       "type": "Lounge / Bar",
       "mobile_order": false,
-      "notes": "Bar à côté de Tiffins, cocktails et petites assiettes, sans réservation.",
-      "plan_number": 12
+      "notes": "Bar à côté de Tiffins, cocktails et petites assiettes, sans réservation. Mobile Dining Walk-Up List Only (pas de réservation à l'avance).",
+      "plan_number": 14
     },
     {
       "zone": "Asia",
@@ -977,7 +989,7 @@
       "type": "Table Service",
       "mobile_order": false,
       "notes": "Cuisine pan-asiatique, l'un des restaurants les plus polyvalents du parc.",
-      "plan_number": 42
+      "plan_number": 48
     },
     {
       "zone": "Asia",
@@ -985,7 +997,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Version quick service à côté du restaurant, orange chicken notamment.",
-      "plan_number": 43
+      "plan_number": 49
     },
     {
       "zone": "The Oasis",
@@ -1001,7 +1013,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Fermé temporairement, réouverture prévue courant 2026 avec nouveau menu.",
-      "plan_number": 32
+      "plan_number": 35
     },
     {
       "zone": "Africa",
@@ -1009,7 +1021,7 @@
       "type": "Quick Service / Café",
       "mobile_order": true,
       "notes": "Pâtisseries et désormais quelques plats plus consistants au déjeuner.",
-      "plan_number": 29
+      "plan_number": 32
     },
     {
       "zone": "Africa",
@@ -1017,7 +1029,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Menu 100% desserts glacés (Dole Whip, Malva Cake Sundae).",
-      "plan_number": 30
+      "plan_number": 33
     },
     {
       "zone": "Africa",
@@ -1025,7 +1037,7 @@
       "type": "Lounge / Bar",
       "mobile_order": false,
       "notes": "Bar extérieur dans Harambe Village.",
-      "plan_number": 27
+      "plan_number": 30
     },
     {
       "zone": "Pandora - The World of Avatar",
@@ -1033,7 +1045,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Bols personnalisables (protéine + base + sauce), très populaire.",
-      "plan_number": 20
+      "plan_number": 23
     },
     {
       "zone": "Pandora - The World of Avatar",
@@ -1041,7 +1053,7 @@
       "type": "Snack / Bar",
       "mobile_order": true,
       "notes": "Boissons signature (dont le Night Blossom) et snacks.",
-      "plan_number": 19
+      "plan_number": 22
     },
     {
       "zone": "Discovery Island",
@@ -1049,7 +1061,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Barbecue, terrasse au bord de l'eau très agréable.",
-      "plan_number": 9
+      "plan_number": 11
     },
     {
       "zone": "Discovery Island",
@@ -1057,7 +1069,7 @@
       "type": "Quick Service",
       "mobile_order": true,
       "notes": "Pizzas et pâtes, salle très colorée.",
-      "plan_number": 13
+      "plan_number": 15
     },
     {
       "zone": "Dinoland U.S.A",
@@ -1065,15 +1077,7 @@
       "type": "Quick Service / Snack",
       "mobile_order": true,
       "notes": "Anciennement Trilo-Bites ; propose désormais les Buffalo Chicken Chips.",
-      "plan_number": 7
-    },
-    {
-      "zone": "Dinoland U.S.A",
-      "nom": "Restaurantosaurus",
-      "type": "Quick Service",
-      "mobile_order": false,
-      "notes": "FERMÉ DÉFINITIVEMENT depuis le 2 février 2026 (zone en réaménagement en Tropical Americas, réouverture 2027).",
-      "plan_number": 53
+      "plan_number": 8
     },
     {
       "zone": "Discovery Island",
@@ -1081,7 +1085,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Snacks légers.",
-      "plan_number": 8
+      "plan_number": 10
     },
     {
       "zone": "Discovery Island",
@@ -1089,7 +1093,7 @@
       "type": "Snack / Café",
       "mobile_order": true,
       "notes": "Café et boissons.",
-      "plan_number": 10
+      "plan_number": 12
     },
     {
       "zone": "Africa",
@@ -1097,7 +1101,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Épis de maïs grillés et snacks.",
-      "plan_number": 26
+      "plan_number": 29
     },
     {
       "zone": "Africa",
@@ -1105,7 +1109,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Fruits frais et snacks légers.",
-      "plan_number": 31
+      "plan_number": 34
     },
     {
       "zone": "Asia",
@@ -1113,7 +1117,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Snacks à thème Asie.",
-      "plan_number": 39
+      "plan_number": 45
     },
     {
       "zone": "Asia",
@@ -1121,7 +1125,7 @@
       "type": "Snack / Bar",
       "mobile_order": true,
       "notes": "Boissons et bières.",
-      "plan_number": 40
+      "plan_number": 46
     },
     {
       "zone": "Asia",
@@ -1129,7 +1133,7 @@
       "type": "Snack / Bar",
       "mobile_order": true,
       "notes": "Boissons fraîches.",
-      "plan_number": 41
+      "plan_number": 47
     },
     {
       "zone": "Asia",
@@ -1145,7 +1149,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Glaces.",
-      "plan_number": 45
+      "plan_number": 51
     },
     {
       "zone": "Asia",
@@ -1153,7 +1157,7 @@
       "type": "Snack",
       "mobile_order": true,
       "notes": "Snacks légers.",
-      "plan_number": 46
+      "plan_number": 52
     },
     {
       "zone": "Asia",
@@ -1161,23 +1165,31 @@
       "type": "Bar",
       "mobile_order": false,
       "notes": "Cocktails et bières.",
-      "plan_number": 47
+      "plan_number": 53
     },
     {
-      "zone": "Dinoland U.S.A",
-      "nom": "Dino-Bite Snacks",
-      "type": "Snack",
+      "zone": "Discovery Island",
+      "nom": "Creature Comforts",
+      "type": "Quick Service / Snack",
       "mobile_order": true,
-      "notes": "Snacks à thème dinosaures.",
-      "plan_number": 54
+      "notes": "Reclassé en restauration (carte à jour).",
+      "plan_number": 16
     },
     {
-      "zone": "Dinoland U.S.A",
-      "nom": "Trilo-Bites",
+      "zone": "Discovery Island",
+      "nom": "The Smiling Crocodile",
+      "type": "Quick Service / Snack",
+      "mobile_order": true,
+      "notes": "Nouveau point de restauration Discovery Island.",
+      "plan_number": 9
+    },
+    {
+      "zone": "Discovery Island",
+      "nom": "Terra Treats",
       "type": "Snack",
       "mobile_order": true,
-      "notes": "Selon nos recherches, aurait fermé définitivement (menu transféré à Eight Spoons Café). À vérifier sur place.",
-      "plan_number": 55
+      "notes": "Nouveau stand snacks Discovery Island.",
+      "plan_number": 17
     }
   ]
 }
